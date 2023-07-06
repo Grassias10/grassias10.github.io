@@ -32,11 +32,10 @@ body{
 
 h1{
     font-family: "Bebas Neue";
-    margin: 15;
+    margin-top: 225px;
+    margin-bottom: 10px;
+    font-size: 250px;
+    text-align: center;
+    line-height: 250px;
 }
 
-#homeTitle{
-    font-size: 325px;
-    text-align: center;
-    line-height: 325px;
-}

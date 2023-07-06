@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Bebas+Neue&display=swap');
+
+.tabBar{
+    background-color: #16171a;
+    overflow: hidden;
+}
+
+.tabBar a{
+    float: right;
+    font-family: "Bebas Neue";
+    text-align: center;
+    padding: 14px 18px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #e4e9f2;
+}
+
+.tabBar a:hover{
+    color: #d3d8e0;
+}
+
+#homeTab{
+    float: left;
+}
+
+body{
+    font-family: "Assistant";
+    color: #e4e9f2;
+    background-color: #1d1f22;
+    margin: 0;
+}
+
