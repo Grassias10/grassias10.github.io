@@ -32,15 +32,15 @@ body{
 
 h1{
     font-family: "Bebas Neue";
-    margin-top: 230px;
-    margin-bottom: 10px;
-    font-size: 250px;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    font-size: 100px;
     text-align: center;
-    line-height: 250px;
+    line-height: 150px;
 }
 
-#socials{
+h2{
+    font-family: "Assistant";
+    color: #e4e9f2;
     text-align: center;
-    margin-top: 45px;
 }
-
